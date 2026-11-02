@@ -1,0 +1,1 @@
+{"name":"Local: Intersection_of_two_sorted_array","url":"g:\\Leetcode\\Intersection_of_two_sorted_array.cpp","tests":[{"id":1793555549359,"input":"4 10\n2 3 4 6\n1 3 4 4 6 8 8 9 11 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Leetcode\\Intersection_of_two_sorted_array.cpp","group":"local","local":true}
